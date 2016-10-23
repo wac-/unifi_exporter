@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/mdlayher/unifi"
-	"github.com/mdlayher/unifi_exporter"
+	"github.com/wac-/unifi_exporter"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
